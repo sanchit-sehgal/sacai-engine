@@ -19,7 +19,7 @@ At the time of release, SACAI was competitive with established neural chess engi
 ## Acknowledgement and Thanks
 The development of SACAI was extremely dependent on the works of many developers, most notably:
 * **Ceres**, for the advanced MCTS search algorithms and much of the board evaluation theory used in SACAI
-* **LeelaChessZero**, for the openly-available neural networks
+* **LeelaChessZero**, for the openly-available neural networks and initial frameworks for engine development
 * **Alex Graves, Santiago Fernández, and Jürgen Schmidhuber**, for their extensive and illuminating research on MDNN implementation (see paper [here](https://people.idsia.ch/~juergen/icann_2007.pdf))
 * the variety of other developers who have contributed to the establishment of neural networking in chess research
 
