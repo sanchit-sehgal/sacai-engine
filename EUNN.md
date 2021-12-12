@@ -18,7 +18,7 @@ Each node can be represented as a "neuron" with the following weights:
 
 By manipulating the weights to a reasonable extent, the engine is able to formulate its play style based on the weights on its neural network. For example, a weight more suitable for bullet games may be useful in finding a suboptimal move extremely quickly, while a weight more suitable for classical games may find the most optimal move with the greatest future prospects in a lengthy fashion. As the depth of the engine increases, the number of "hidden layers" increases, causing the weights to become more prevalent in the resulting output.
 
-## Multi-dimensional Neural Nets
+## Multi-Dimensional Neural Nets
 
 A single-dimensional neural network is limited to a linear scan of the nodes. Although adding more dimensions to a neural network may seem to complicate the sorting problem significantly, the formulation of the sort remains consistent regardless of the nunber of dimensions. A linear (single-dimensional) neural network can be represented with this simple summative formula:
 
@@ -32,6 +32,6 @@ The particular SNN in SACAI is an example of a backpropagation of a convolutiona
   <img src="https://miro.medium.com/max/1134/1*ns8pgfCGO9T0dkpi5vgegA.png" />
 </p>
 
-By adding multiple dimensions to the active neural networks (with the supported [weights](weights/))
+By adding multiple dimensions to the active neural networks (with the supported [weights](weights/)), the engine incentivizes nodes with a historical variability of the node's evaluations, resulting in an extensible framework for further advancements in potential multi-dimensional regression evaluation on a per-node basis.
 
 To learn more about Neural Networks in chess, you can visit [this link](https://www.chessprogramming.org/Neural_Networks).
