@@ -32,10 +32,4 @@ The particular SNN in SACAI is an example of a backpropagation of a convolutiona
   <img src="https://miro.medium.com/max/1134/1*ns8pgfCGO9T0dkpi5vgegA.png" />
 </p>
 
-Or, more simply put:
-
-<p align="center">
-  <img src="https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/70_blog_image_1.png" />
-</p>
-
 To leaarn more about Neural Networks in chess, you can visit [this link](https://www.chessprogramming.org/Neural_Networks).
