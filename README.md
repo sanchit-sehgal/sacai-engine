@@ -24,4 +24,4 @@ The development of SACAI was extremely dependent on the works of many developers
 * the variety of other developers who have contributed to the establishment of neural networking in chess research
 
 ## Contributing
-SACAI is proudly open-source and invites developers to further advance its algorithms. The engine uses the GNU General Public License and can be redistributed or modified within the stated terms. See [LICENSE.md](LICENSE.md) for the specific terms and conditions.
+SACAI is proudly open-source and invites developers to further advance its algorithms. The engine uses the Apache License and can be redistributed or modified within the stated terms. See [LICENSE.md](LICENSE.md) for the specific terms and conditions.
