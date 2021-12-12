@@ -13,6 +13,7 @@ SACAI was first initialized as a functioning UCI-capable engine near the end of 
 * implementation of an optimized node-search theory
 * several algorithmic advancements including aggressive pruning techniques
 * tested sub-node analytical postulations for more explorative node searches
+
 At the time of release, SACAI was competitive with established neural chess engines such as Houdini, Stockfish, and LeelaChessZero. The engine uses a variety of optimized sub-tree searching algorithms, including a depth-first search with postorder traversal.
 
 ## Acknowledgement and Thanks
