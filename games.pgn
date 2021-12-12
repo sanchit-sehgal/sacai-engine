@@ -245,3 +245,43 @@ Ra8 26. Bf2 Rdb8 27. h4 Rb7 28. Bf3 a4 29. b4 Ne6 30. Bg3 Nf4 31. Bxf4 exf4 32. 
 Qc3 66. Qe2 Qc1 67. Qf2 Qc4 68. Qf3 Qc2+ 69. Qf2 Qe4+ 70. Qf3 Qe7 71. Kf1 Qd6 72. Kg2 Qb4 73. Qe2 Qc3 74. Kf2 Qd4+ 75. Kf3 Qg1 76. Kf4 Qb6 77. Kf3 Qg1 78. Kf4 Qc1+ 
 79. Kf3 Qa3+ 80. Kg2 Qc3 81. Kf2 Qh3 82. Qf3 Qh2+ 83. Qg2 Qf4+ 84. Qf3 Qa4 85. Kg3 Qd4 86. Kh3 Qb2 87. Qg3 Qc2 88. Qf3 Qc1 89. Kg2 Qd2+ 90. Qf2 Qg5 91. Kh3 Qc1 92. Kg2 Qc6+ 
 93. Qf3 Qc4 94. Kh3 Qc1 95. Kh2 Qa1 96. Kh3 Qd4 97. Qg3 Qc5 98. Kh2 Qe5 99. Kh3 Qe2 100. Qf4 Qd1 101. Qe4 Kg8 102. Qe8+ Kh7 { The game is a draw. } 1/2-1/2
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TJoob1SS"]
+[Date "2021.12.11"]
+[White "PressAltPlusF4"]
+[Black "SACAI_official"]
+[Result "1/2-1/2"]
+[UTCDate "2021.12.11"]
+[UTCTime "18:35:02"]
+[WhiteElo "2450"]
+[BlackElo "2012"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+59"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "7200+60"]
+[ECO "C83"]
+[Opening "Ruy Lopez: Open, Classical Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 { C83 Ruy Lopez: Open, Classical Defense } 10. Nbd2 Nc5 11. Bc2 d4 12. Nb3 d3 
+13. Bb1 Nxb3 14. axb3 Bf5 15. Re1 O-O 16. Be3 Qd5 17. b4 Rfd8 18. h3 Qd7 19. Ba2 Be6 20. Bb1 g6 21. Bh6 a5 22. bxa5 Rxa5 23. Rxa5 Nxa5 24. Re3 Bc4 25. e6 Bxe6 26. Rxd3 Bd6 
+27. b4 Nc4 28. Rd4 Re8 29. Be4 Bf5 30. Bd5 Nb6 31. Bb7 Rb8 32. Qa1 f6 33. Qa7 Re8 34. Qa6 g5 35. h4 Bg4 36. Qa1 Bxf3 37. Bxf3 Re5 38. Bh5 Qe6 39. Kf1 Kh8 40. Bf3 Qe8 
+41. hxg5 Qg6 42. c4 Nxc4 43. Be4 Nd2+ 44. Rxd2 Qxe4 45. gxf6 Kg8 46. Qa2+ Qc4+ 47. Qxc4+ bxc4 48. Bf4 Rb5 49. Bxd6 cxd6 50. Rxd6 Rxb4 51. Rd7 Rb6 52. Rg7+ Kh8 53. Rc7 Rxf6 
+54. Rxc4 Kg7 55. Rd4 h6 56. Ke2 Ra6 57. Rb4 Ra3 58. Rb7+ Kg6 59. f3 Ra2+ 60. Kf1 Rc2 61. Rb6+ Kg7 62. Re6 Ra2 63. Re7+ Kg6 64. Kg1 Kf6 65. Re4 Kg7 66. Re5 Rb2 67. Re7+ Kf6 
+68. Re8 Kg7 69. Kh2 Rb5 70. Re7+ Kg6 71. Re6+ Kg7 72. Re7+ Kg6 73. Re6+ Kg7 74. Re1 Kg6 75. Kg3 Rg5+ 76. Kf2 Ra5 77. Re2 Kg7 78. Kg3 Ra4 79. Re4 Ra2 80. Re8 Rb2 81. Rd8 Ra2 
+82. Kh3 Rf2 83. Rd6 Kh7 84. Rd4 Kg7 85. Rb4 Ra2 86. Rh4 Ra3 87. Rd4 Ra2 88. Rg4+ Kh7 89. Rc4 Kg7 90. Rc6 Rf2 91. Rc7+ Kg6 92. Re7 Ra2 93. g3 Kf6 94. Re8 Kf7 95. Re5 Kf6 96. Rd5
+Ra1 97. Kg4 Rg1 98. Kf4 Kg6 99. g4 Ra1 100. Re5 Kf6 101. Rh5 Kg6 102. Rb5 Ra6 103. Kg3 Ra3 104. Rb6+ Kg7 105. Rb7+ Kf6 106. Rb5 Kg6 107. Rb6+ Kg7 108. Re6 Rb3 109. Kf4 Rb5 
+110. Re7+ Kf6 111. Re8 Rb4+ 112. Re4 Rb3 113. Rd4 Rb5 114. Rd6+ Kg7 115. Rd7+ Kf6 116. Rd6+ Kg7 117. Re6 Ra5 118. Re3 Kf6 119. Re8 Ra4+ 120. Kg3 h5 121. gxh5 Kg5 122. Re5+ 
+Kh6 123. f4 Ra1 124. Rg5 Rh1 125. Kg4 Rg1+ 126. Kf5 Ra1 127. Rg8 Ra2 128. Rb8 Ra1 129. Rd8 Rb1 130. Ra8 Rb2 131. Rh8+ Kg7 132. Rc8 Kh6 133. Rh8+ Kg7 134. Re8 Kh6 135. Rc8 Ra2 
+136. Rh8+ Kg7 137. Rb8 Kh6 138. Rb1 Rc2 139. Re1 Ra2 140. Rh1 Rb2 141. Rd1 Ra2 142. Rc1 Rb2 143. Re1 Ra2 144. Re8 Rb2 145. Re3 Ra2 146. Re7 Rb2 147. Rd7 Ra2 148. Kg4 Rg2+ 
+149. Kf5 Ra2 150. Rd1 Rb2 151. Ra1 Rf2 152. Ra3 Rf1 153. Ra8 Rf2 154. Rh8+ Kg7 155. Re8 Kh6 156. Rh8+ Kg7 157. Rb8 Kh6 158. Kg4 Rg2+ 159. Kf5 Rf2 160. Ra8 Rf1 161. Rh8+ Kg7 
+162. Re8 Kh6 163. Re5 Kxh5 164. Kf6+ Kh6 165. f5 Ra1 166. Kf7 Ra7+ 167. Re7 Ra5 168. Re6+ Kh7 169. f6 Ra8 170. Re1 Ra7+ 171. Ke6 Kg8 172. Rh1 Ra6+ 173. Kf5 Ra2 174. Rh4 Kf7 
+175. Rh7+ Kf8 176. Rh4 Rf2+ 177. Rf4 Rg2 178. Re4 Ra2 179. Rd4 Kf7 180. Rd7+ Kf8 181. Rd4 Kf7 182. Rd7+ Kf8 183. Re7 Rb2 184. Re3 Kf7 185. Re7+ Kf8 186. Re4 Kf7 187. Rc4 Rb5+ 
+188. Kg4 Rd5 189. Rc6 Rd1 190. Rc7+ Kxf6 191. Rc6+ Ke5 192. Rc5+ Kd4 193. Rc8 Rg1+ 194. Kf4 Kd3 195. Ke5 Rg4 196. Rc1 Kd2 197. Rc7 Rh4 198. Rd7+ Ke3 199. Rd8 Ra4 200. Rc8 Kd3 
+201. Rd8+ Ke3 202. Rc8 Kd3 203. Rb8 Rh4 204. Rd8+ Ke3 205. Rd7 Rh5+ 206. Kf6 Ke4 207. Rd8 Rc5 208. Re8+ Kf4 209. Ra8 Rc6+ 210. Ke7 Rh6 211. Kd7 Rh7+ 212. Kd6 Rh2 213. Rf8+ Kg4 
+214. Rg8+ Kf4 215. Kd7 Rh7+ 216. Kc8 Ra7 217. Rf8+ Kg5 218. Kb8 Re7 219. Rg8+ Kh5 220. Rh8+ Kg6 221. Rg8+ Kf7 222. Rh8 Kg7 223. Rh2 Rf7 224. Rg2+ Kh6 225. Rc2 Rf3 226. Kc8 Rf8+ 
+227. Kc7 Rf5 228. Rc6+ Kh7 229. Rc1 Rg5 230. Kb6 Rg8 231. Rh1+ Kg7 232. Rg1+ Kh7 233. Rxg8 Kxg8 { The game is a draw. } 1/2-1/2
