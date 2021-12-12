@@ -1,6 +1,6 @@
 ## UCI Protocol
 
-SACAI engine supports the use of the UCI (Universal Chess Interface) protocol between the executable application and any UCI-supported chess GUI. With UCI, the engine is able to successfully communicate between a variety of different GUIs, including (but not limited to):
+SACAI engine supports the use of the UCI (Universal Chess Interface) protocol between the executable application and any UCI-supported chess GUI (Graphical User-Interface). With UCI, the engine is able to successfully communicate between a variety of different GUIs, including (but not limited to):
 * ArenaChess GUI
 * Cutechess
 * Chessbase
