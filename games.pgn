@@ -1,0 +1,247 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/7ofNMCSp"]
+[Date "2021.12.08"]
+[White "SACAI_official"]
+[Black "DOCTAL"]
+[Result "1-0"]
+[UTCDate "2021.12.08"]
+[UTCTime "15:47:14"]
+[WhiteElo "1897"]
+[BlackElo "2645"]
+[WhiteRatingDiff "+55"]
+[BlackRatingDiff "-17"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 { C11 French Defense: Steinitz Variation, Boleslavsky Variation } a6 8. Qd2 b5 9. Bd3 b4 10. Na4 c4 
+11. Be2 Nb6 12. Nc5 Nd7 13. Nxd7 Bxd7 14. O-O a5 15. b3 c3 16. Qe1 Qb6 17. Bd3 g6 18. Qh4 Be7 19. Qh6 O-O-O 20. Kh1 Rdg8 21. Ng5 Be8 22. Rfd1 Kc7 23. Nf3 Bd7 24. Ng5 Be8 
+25. Nf3 Bd7 26. Ng5 Rf8 27. Rf1 Kb7 28. Nf3 Rfg8 29. Ng5 Nd8 30. a4 bxa3 31. Bc1 Bf8 32. Qh4 h6 33. Nf3 Nc6 34. Bxa3 g5 35. Qe1 g4 36. Ng1 Bxa3 37. Rxa3 Nxd4 38. Qxc3 Rc8 
+39. Qxa5 Qxa5 40. Rxa5 Nxc2 41. Ba6+ Kb6 42. Bxc8 Rxc8 43. Ra2 d4 44. Ne2 d3 45. Ng3 Nd4 46. Rd2 Bb5 47. Rfd1 h5 48. h4 Ne2 49. Kh2 Nxf4 50. Rf2 Ne2 51. b4 Rd8 52. Rxf7 Bc4 
+53. Rd2 Kb5 54. Rb7+ Ka4 55. Rb6 Nxg3 56. Kxg3 Rd4 57. Kf2 Re4 58. Rd6 Kxb4 59. R2xd3 Bxd3 60. Rxd3 Rxe5 61. Rd6 Kc4 62. Kg3 Re4 63. Rd8 { White offers draw } 63... Rd4 
+64. Re8 Kc3 65. Rxe6 Rd6 66. Rxd6 Kb2 67. Kf4 Ka1 68. Rb6 Ka2 69. Ke3 Ka1 70. Kd2 Ka2 71. Kc3 Ka1 72. Kc2 Ka2 73. Ra6# { White wins by checkmate. } 1-0
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/qLFrERqB"]
+[Date "2021.12.10"]
+[White "AKS-Mantissa"]
+[Black "SACAI_official"]
+[Result "0-1"]
+[UTCDate "2021.12.10"]
+[UTCTime "03:43:30"]
+[WhiteElo "2453"]
+[BlackElo "2098"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+42"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+15"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 { B90 Sicilian Defense: Najdorf Variation, English Attack } e5 7. Nb3 Be6 8. f3 h5 9. Qd2 Nbd7 10. Nd5 Bxd5 
+11. exd5 g6 12. Na5 Bg7 13. Be2 Qc7 14. Rd1 e4 15. O-O exf3 16. Bxf3 O-O 17. Qc3 Qxc3 18. bxc3 b6 19. Nc6 Nc5 20. c4 Rfe8 21. Bf4 Nfe4 22. Rb1 b5 23. cxb5 axb5 24. Rxb5 Rxa2 
+25. Bxd6 Nxd6 26. Rxc5 h4 27. Kf2 Bf8 28. Rc3 Nb5 29. Rc4 Na3 30. Rxh4 Bc5+ 31. Kg3 Nxc2 32. Re4 Rxe4 33. Bxe4 Ne3 34. Rf2 Ra3 35. Rf3 f5 36. Bb1 Kg7 37. Nd8 Kf6 38. Ne6 Ba7 
+39. h4 Ra1 40. Bd3 Ng4 41. Nc7 Bd4 42. Ne8+ Ke7 43. Kf4 Ne5 44. Rh3 Kxe8 45. h5 Rd1 46. Ba6 Ke7 47. Kg5 Ra1 48. Bd3 Ra3 49. Bxf5 Be3+ 50. Rxe3 Rxe3 51. hxg6 Nc4 52. g4 Nd6 
+53. Be6 Kf8 54. Kf6 Ne8+ 55. Kg5 Kg7 56. Kf4 Re1 57. Bf5 Kf6 58. g5+ Kg7 59. Bc2 Nd6 60. Bd3 Kg8 61. Bc2 Kh8 62. Bd3 Kg7 63. Bc2 Nc4 64. d6 Nxd6 65. Bd3 Nc8 66. Be4 Ne7 
+67. Ke5 Nxg6+ 68. Kd4 Rg1 69. Kc3 Rxg5 70. Ba8 Rg4 71. Bc6 Ne7 72. Bd7 Nd5+ 73. Kd3 Rh4 74. Bc8 Kf6 75. Ke2 Ke5 76. Bb7 Rf4 77. Kd3 Rd4+ 78. Kc2 Ke4 79. Ba8 Ra4 
+80. Bb7 Ra7 81. Bxd5+ Kxd5 82. Kd3 Ra3+ 83. Kd2 Ke4 84. Kc2 Rd3 85. Kc1 Ke3 86. Kc2 Ke2 87. Kc1 Rd2 88. Kb1 Kd1 89. Ka1 Kc2 90. Ka2 Rd3 
+91. Ka1 Ra3# { Black wins by checkmate. } 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ISJ6jsS9"]
+[Date "2021.12.11"]
+[White "SACAI_official"]
+[Black "zahak_engine"]
+[Result "1-0"]
+[UTCDate "2021.12.11"]
+[UTCTime "00:50:11"]
+[WhiteElo "2344"]
+[BlackElo "2337"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "30+2"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 { B90 Sicilian Defense: Najdorf Variation, English Attack } e5 7. Nb3 Be6 8. h3 b5 9. a4 b4 10. Nd5 Bxd5 
+11. exd5 Be7 12. g4 g6 13. g5 Nh5 14. Qd2 O-O 15. O-O-O Nd7 16. Kb1 Qc7 17. Be2 Ng7 18. h4 a5 19. Bb5 Nf5 20. h5 Nb6 21. Rdg1 Ra7 22. Rh3 Bd8 23. Qd3 Qc8 24. Rhh1 Kg7 
+25. Nd2 Nxe3 26. fxe3 Qb7 27. Bc6 Qa6 28. Qe4 Kg8 29. Rh2 Qc8 30. Qh1 Qc7 31. Ne4 Nc4 32. Rg3 Qb6 33. Qf3 Rc7 34. b3 Na3+ 35. Ka2 Be7 36. Qh1 Bd8 37. Rgh3 Qa7 38. Rf3 Nxc2 
+39. Rxc2 Qb8 40. Rcf2 f5 41. gxf6 g5 42. Nxg5 Kh8 43. Ne6 Rxf6 44. Rxf6 Bxf6 45. Rxf6 Rc8 46. Qf3 e4 47. Qf4 Rg8 48. Ng5 Qc7 49. Rf7 Qxf7 50. Qxf7 Rxg5 51. Qf8+ Rg8 52. Qf6+ 
+Rg7 53. h6 Kg8 54. Qxg7# { White wins by checkmate. } 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/c7XYjhhG"]
+[Date "2021.12.11"]
+[White "EHQH_Super_Bot"]
+[Black "SACAI_official"]
+[Result "1/2-1/2"]
+[UTCDate "2021.12.11"]
+[UTCTime "01:43:30"]
+[WhiteElo "2396"]
+[BlackElo "1951"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+61"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "7200+30"]
+[ECO "A05"]
+[Opening "Zukertort Opening: Quiet System"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e3 Nf6 2. Nf3 { A05 Zukertort Opening: Quiet System } c5 3. c4 g6 4. Nc3 Bg7 5. Qb3 O-O 6. Be2 Nc6 7. d4 cxd4 8. Nxd4 b6 9. O-O Bb7 10. Rd1 Nxd4 11. exd4 d5 12. c5 Bc6 
+13. cxb6 Qxb6 14. Qxb6 axb6 15. f3 Rfc8 16. a4 e6 17. Bf4 Ne8 18. b3 Kf8 19. Bb5 Ke7 20. Rac1 Bd7 21. g4 Nd6 22. Bxd7 Kxd7 23. Bxd6 Kxd6 24. Nb5+ Kd7 25. f4 Rxc1 26. Rxc1 
+Rc8 27. Rxc8 Kxc8 28. h3 Bf8 29. Kf2 Bb4 30. Kf3 f5 31. g5 Kb7 32. Ke3 Kc6 33. Na7+ Kb7 34. Nb5 Kc6 35. Ke2 Kb7 36. Kf3 Kc6 37. Ke3 Kb7 38. Kf3 Kc6 39. Ke2 Kb7 40. Kd3 Kc6 
+41. Ke3 Kb7 42. Ke2 Kc6 43. Kd3 Kb7 44. Ke2 Kc6 45. Kd1 Kd7 46. Kc2 Kc8 47. Kd3 Kb7 { Black offers draw } 48. Ke3 { The game is a draw. } 1/2-1/2
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/usIE9jBm"]
+[Date "2021.12.05"]
+[White "SACAI_official"]
+[Black "DOCTAL"]
+[Result "1/2-1/2"]
+[UTCDate "2021.12.05"]
+[UTCTime "19:55:00"]
+[WhiteElo "1899"]
+[BlackElo "2397"]
+[WhiteRatingDiff "+88"]
+[BlackRatingDiff "-9"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 { B11 Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line } 5. Qxf3 e6 6. g3 Nd7 7. Bg2 d4 8. Ne2 Qb6 9. O-O c5 
+10. Qb3 Ne7 11. d3 Nc6 12. Bd2 h5 13. h4 Be7 14. f4 Nf6 15. Bf3 Ng4 16. Kg2 Qxb3 17. axb3 Kd7 18. e5 f6 19. exf6 gxf6 20. c3 a5 21. Ra4 dxc3 22. bxc3 f5 23. d4 Rhd8 24. Rfa1 
+Rac8 25. Bxc6+ Rxc6 26. Rxa5 Rb6 27. Rb1 Ke8 28. Ra2 Kf7 29. Rbb2 cxd4 30. Nxd4 Bf6 31. Nf3 Rd3 32. Ne1 Rd7 33. Nf3 Rc6 34. Rc2 Rd3 35. Rc1 Ke7 36. Ne1 Ra6 37. Rb2 Rdd6 
+38. Kf1 Kf7 39. Rbc2 Nh2+ 40. Kg1 Ng4 41. Kf1 Nh2+ 42. Kg1 Ng4 43. Kf1 { The game is a draw. } 1/2-1/2
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/u6A2Bz7G"]
+[Date "2021.12.05"]
+[White "SACAI_official"]
+[Black "Botzer"]
+[Result "1/2-1/2"]
+[UTCDate "2021.12.05"]
+[UTCTime "05:55:01"]
+[WhiteElo "1527"]
+[BlackElo "2157"]
+[WhiteRatingDiff "+114"]
+[BlackRatingDiff "-28"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "1800+1"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 { C67 Ruy Lopez: Berlin Defense, Rio Gambit Accepted } 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 Ne8 10. d5 Bc5 11. Re1 
+d6 12. Nc3 Bf5 13. Bd3 Qf6 14. Be3 Qg6 15. h3 h6 16. Bxc5 dxc5 17. Bxf5 Qxf5 18. Ne4 Nf6 19. Nxc5 b6 20. Na6 Nxd5 21. c4 Nf6 22. Nxc7 Rad8 23. Qc1 Qc5 24. Nb5 a6 25. Na3 Rd4 
+26. Qe3 Re8 27. Qf3 Red8 28. Re2 Rd3 29. Qf4 R8d4 30. Qe5 Qxe5 31. Rxe5 Rd2 32. b3 Rd1+ 33. Rxd1 Rxd1+ 34. Kh2 Rd2 35. c5 bxc5 36. Nc4 Rxa2 37. f3 g6 38. Rxc5 Kf8 39. Ne5 h5 
+40. Rc7 Nd5 41. Rxf7+ Kg8 42. Ra7 Nf4 43. Kh1 Ra1+ 44. Kh2 Ra2 45. Kh1 h4 46. b4 Re2 47. Ng4 Re1+ 48. Kh2 Nh5 49. Nf2 Ng3 50. Rxa6 g5 51. Rg6+ Kf7 52. Rxg5 Nf1+ 53. Kg1 Ne3+ 
+54. Kh2 Nf1+ 55. Kg1 Ng3+ 56. Kh2 Nf1+ { The game is a draw. } 1/2-1/2
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/u6A2Bz7G"]
+[Date "2021.12.05"]
+[White "SACAI_official"]
+[Black "Botzer"]
+[Result "1/2-1/2"]
+[UTCDate "2021.12.05"]
+[UTCTime "05:55:01"]
+[WhiteElo "1527"]
+[BlackElo "2157"]
+[WhiteRatingDiff "+114"]
+[BlackRatingDiff "-28"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "1800+1"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 { C67 Ruy Lopez: Berlin Defense, Rio Gambit Accepted } 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 Ne8 10. d5 Bc5 
+11. Re1 d6 12. Nc3 Bf5 13. Bd3 Qf6 14. Be3 Qg6 15. h3 h6 16. Bxc5 dxc5 17. Bxf5 Qxf5 18. Ne4 Nf6 19. Nxc5 b6 20. Na6 Nxd5 21. c4 Nf6 22. Nxc7 Rad8 23. Qc1 Qc5 24. Nb5 a6 
+25. Na3 Rd4 26. Qe3 Re8 27. Qf3 Red8 28. Re2 Rd3 29. Qf4 R8d4 30. Qe5 Qxe5 31. Rxe5 Rd2 32. b3 Rd1+ 33. Rxd1 Rxd1+ 34. Kh2 Rd2 35. c5 bxc5 36. Nc4 Rxa2 37. f3 g6 38. Rxc5 
+Kf8 39. Ne5 h5 40. Rc7 Nd5 41. Rxf7+ Kg8 42. Ra7 Nf4 43. Kh1 Ra1+ 44. Kh2 Ra2 45. Kh1 h4 46. b4 Re2 47. Ng4 Re1+ 48. Kh2 Nh5 49. Nf2 Ng3 50. Rxa6 g5 51. Rg6+ Kf7 52. Rxg5 
+Nf1+ 53. Kg1 Ne3+ 54. Kh2 Nf1+ 55. Kg1 Ng3+ 56. Kh2 Nf1+ { The game is a draw. } 1/2-1/2
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Ldp6shTO"]
+[Date "2021.12.09"]
+[White "SACAI_official"]
+[Black "bot_bigbrain"]
+[Result "1/2-1/2"]
+[UTCDate "2021.12.09"]
+[UTCTime "01:42:50"]
+[WhiteElo "2121"]
+[BlackElo "2438"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "2700+15"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 { B30 Sicilian Defense: Nyezhmetdinov-Rossolimo Attack } e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4 Ng6 7. Be3 Be7 8. c3 O-O 9. Nd2 Nxd4 10. cxd4 d5 11. e5 
+Nh4 12. Nf3 Nxf3+ 13. Qxf3 f5 14. exf6 Rxf6 15. Qe2 h6 16. Bd3 Bd7 17. g3 Bd6 18. Rac1 Qe7 19. a3 Raf8 20. Rfe1 Rf3 21. Bb1 Qf7 22. Qd2 a5 23. Qd3 g5 24. Bc2 Bf4 25. Rf1 
+e5 26. dxe5 Bxe3 27. fxe3 Rxf1+ 28. Rxf1 Qxf1+ 29. Qxf1 Rxf1+ 30. Kxf1 Kf7 31. e4 Ke6 32. exd5+ Kxe5 33. Bb3 Bf5 34. Ke2 Be4 35. Ke3 Bxd5 36. Bd1 b6 37. Bc2 Bc6 38. Bd3 Bd5 
+39. Bc2 Bc6 40. Bg6 Bb5 41. Bf7 Bd7 42. Bb3 Bb5 43. Bd1 Bc4 44. Ba4 Bf7 45. Bc2 Be6 46. Bd1 Bc8 47. Bf3 Bd7 48. Bd1 Be8 49. Bf3 Bd7 50. Bd1 Be8 51. Bf3 Bg6 52. Bc6 Bc2 
+53. Bf3 Bg6 54. Bc6 Bf7 55. Bf3 Be6 56. Bd1 Bc8 57. Bf3 Bh3 58. Be2 Kd5 59. Bd3 Bd7 60. Bg6 Bh3 61. Bf7+ Ke5 62. Bc4 Bf5 63. Bf7 Bc8 64. Bb3 Bf5 65. Bf7 Bd7 66. Bb3 Bc6 
+67. Bd1 Bh1 68. Bc2 Bd5 69. Bg6 Bb3 70. Be8 Bd1 71. Bf7 Bg4 72. Bb3 Bc8 73. Bc4 Bh3 74. Be2 Kd5 75. Bd3 Be6 76. Bc2 Bg4 77. Bb3+ Ke5 78. Bf7 Bh3 79. Bc4 Bc8 80. Bf7 Bf5 
+81. Bc4 Bc8 82. Bb3 Ba6 83. Bd1 Bc4 84. Bc2 Bf7 85. Bd1 Bg6 86. Bf3 Bc2 { The game is a draw. } 1/2-1/2
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3UFSvS0P"]
+[Date "2021.12.10"]
+[White "SACAI_official"]
+[Black "ElexusChess"]
+[Result "1/2-1/2"]
+[UTCDate "2021.12.10"]
+[UTCTime "04:53:30"]
+[WhiteElo "2161"]
+[BlackElo "2461"]
+[WhiteRatingDiff "+61"]
+[BlackRatingDiff "-5"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "30+4"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 { B90 Sicilian Defense: Najdorf Variation, English Attack } e5 7. Nb3 Be6 8. h3 Nbd7 9. g4 h6 10. Qd2 b5 11. Bg2 
+Bc4 12. Nd5 a5 13. Nc1 Nc5 14. Nxf6+ Qxf6 15. b3 Be6 16. Ne2 Be7 17. O-O O-O 18. f4 Rfd8 19. Rad1 b4 20. Qe1 Rac8 21. f5 Bd7 22. c4 bxc3 23. Nxc3 Bc6 24. Nd5 Bxd5 25. Rxd5 
+Ra8 26. Bf2 Rdb8 27. h4 Rb7 28. Bf3 a4 29. b4 Ne6 30. Bg3 Nf4 31. Bxf4 exf4 32. e5 dxe5 33. Rxe5 Bxb4 34. Qe2 Rbb8 35. Bxa8 Rxa8 36. Rxf4 Bd6 37. Re8+ Rxe8 38. Qxe8+ Kh7 
+39. Rxa4 Qb2 40. Rc4 Bg3 41. Qe3 Qxa2 42. Rc3 Bf2+ 43. Qxf2 Qa1+ 44. Kg2 Qxc3 45. h5 Qd3 46. Qf3 Qd2+ 47. Qf2 Qd3 48. Qf3 Qd2+ 49. Qf2 Qd1 50. Qf3 Qc2+ 51. Qf2 Qc1 
+52. Qe2 f6 53. Kf2 Qc3 54. Kg2 Qc6+ 55. Qf3 Qc2+ 56. Qf2 Qc4 57. Kh3 Qe4 58. Kg3 Qh1 59. Qe2 Qg1+ 60. Kh3 Qh1+ 61. Kg3 Qd5 62. Qf3 Qd2 63. Kh3 Qd4 64. Kg2 Qb2+ 65. Qf2 
+Qc3 66. Qe2 Qc1 67. Qf2 Qc4 68. Qf3 Qc2+ 69. Qf2 Qe4+ 70. Qf3 Qe7 71. Kf1 Qd6 72. Kg2 Qb4 73. Qe2 Qc3 74. Kf2 Qd4+ 75. Kf3 Qg1 76. Kf4 Qb6 77. Kf3 Qg1 78. Kf4 Qc1+ 
+79. Kf3 Qa3+ 80. Kg2 Qc3 81. Kf2 Qh3 82. Qf3 Qh2+ 83. Qg2 Qf4+ 84. Qf3 Qa4 85. Kg3 Qd4 86. Kh3 Qb2 87. Qg3 Qc2 88. Qf3 Qc1 89. Kg2 Qd2+ 90. Qf2 Qg5 91. Kh3 Qc1 92. Kg2 Qc6+ 
+93. Qf3 Qc4 94. Kh3 Qc1 95. Kh2 Qa1 96. Kh3 Qd4 97. Qg3 Qc5 98. Kh2 Qe5 99. Kh3 Qe2 100. Qf4 Qd1 101. Qe4 Kg8 102. Qe8+ Kh7 { The game is a draw. } 1/2-1/2
