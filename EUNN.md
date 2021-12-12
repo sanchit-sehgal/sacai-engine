@@ -23,7 +23,7 @@ By manipulating the weights to a reasonable extent, the engine is able to formul
 A single-dimensional neural network is limited to a linear scan of the nodes. Although adding more dimensions to a neural network may seem to complicate the sorting problem significantly, the formulation of the sort remains consistent regardless of the nunber of dimensions. A linear (single-dimensional) neural network can be represented with this simple matrical formula:
 
 <p align="center">
-  <img src="src/equation.png" />
+  <img src="src/equation.jpg" />
 </p>
 
 To leaarn more about Neural Networks in chess, you can visit [this link](https://www.chessprogramming.org/Neural_Networks).
