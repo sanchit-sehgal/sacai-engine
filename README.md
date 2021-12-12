@@ -8,10 +8,17 @@ This project heavily relied on the previous advancements made by several establi
 * serve as an establishment for developing further algorithmic innovations
 
 ## Development and Implementations
-SACAI was first initialized as a functioning UCI-capable engine near the end of 2021. The neural networks of SACAI were virtually untrainable due to hardware limitations, resulting in the engine being currently dependent on the trained LeelaChessZero neural networks. During its initial phase of development, several advancements in its MDNN were made, including:
+SACAI was first initialized as a functioning UCI-capable engine near the end of 2021. The neural networks of SACAI were virtually untrainable due to hardware limitations, resulting in the engine being currently dependent on the trained LeelaChessZero neural networks. During its initial phase of development, several advancements in its MDNN were made, including:Ceres
 * the ability to function on lower-performance devices
 * implementation of an optimized node-search theory
 * several algorithmic advancements including aggressive pruning techniques
 * tested sub-node analytical postulations for more explorative node searches
 At the time of release, SACAI was competitive with established neural chess engines such as Houdini, Stockfish, and LeelaChessZero. The engine uses a variety of optimized sub-tree searching algorithms, including a depth-first search with postorder traversal.
 
+## Acknowledgement and Thanks
+The development of SACAI was extremely dependent on the works of many developers, most notably:
+* **Ceres**, for the basic MCTS search algorithms and much of the evaluation theory
+* **LeelaChessZero**, for the openly-available neural networks
+* **Alex Graves, Santiago Fernández, and Jürgen Schmidhuber**, for their extensive and illuminating research on MDNN implementation (see paper [here](https://people.idsia.ch/~juergen/icann_2007.pdf)).
+
+and to the variety of other developers who have contributed to the establishment of neural networking in chess research.
