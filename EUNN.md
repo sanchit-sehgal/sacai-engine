@@ -20,10 +20,22 @@ By manipulating the weights to a reasonable extent, the engine is able to formul
 
 ## Multi-dimensional Neural Nets
 
-A single-dimensional neural network is limited to a linear scan of the nodes. Although adding more dimensions to a neural network may seem to complicate the sorting problem significantly, the formulation of the sort remains consistent regardless of the nunber of dimensions. A linear (single-dimensional) neural network can be represented with this simple matrical formula:
+A single-dimensional neural network is limited to a linear scan of the nodes. Although adding more dimensions to a neural network may seem to complicate the sorting problem significantly, the formulation of the sort remains consistent regardless of the nunber of dimensions. A linear (single-dimensional) neural network can be represented with this simple summative formula:
 
 <p align="center">
-  <img src="src/equation.png" />
+  <img src="https://i.stack.imgur.com/4VuGC.png" />
+</p>
+
+The particular SNN in SACAI is an example of a backpropagation of a convolutional neural network, where the convolution can be represented with the following equation:
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1134/1*ns8pgfCGO9T0dkpi5vgegA.png" />
+</p>
+
+Or, more simply put:
+
+<p align="center">
+  <img src="https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/70_blog_image_1.png" />
 </p>
 
 To leaarn more about Neural Networks in chess, you can visit [this link](https://www.chessprogramming.org/Neural_Networks).
