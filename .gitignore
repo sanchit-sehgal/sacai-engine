@@ -1,0 +1,4 @@
+# Prim
+src/
+
+src/*.pb.gz # lc0 Weights for NN
