@@ -8,7 +8,7 @@ This project heavily relied on the previous advancements made by several establi
 * serve as an establishment for developing further algorithmic innovations
 
 ## Development and Implementations
-SACAI was first initialized as a functioning UCI-capable engine near the end of 2021. The neural networks of SACAI were virtually untrainable due to hardware limitations, resulting in the engine being currently dependent on the trained LeelaChessZero neural networks. During its initial phase of development, several advancements in its MDNN were made, including:Ceres
+SACAI was first initialized as a functioning UCI-capable engine near the end of 2021. The neural networks of SACAI were virtually untrainable due to hardware limitations, resulting in the engine being currently dependent on the trained LeelaChessZero neural networks. During its initial phase of development, several advancements in its MDNN were made, including:
 * the ability to function on lower-performance devices
 * implementation of an optimized node-search theory
 * several algorithmic advancements including aggressive pruning techniques
