@@ -40,3 +40,5 @@ else
 fi
 
 popd
+cd build/release
+mv lc0 sacai
