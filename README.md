@@ -16,7 +16,7 @@ SACAI was first initialized as a functioning UCI-capable engine near the end of 
 
 At the time of release, SACAI was competitive with established neural chess engines such as Houdini, Stockfish, and LeelaChessZero. The engine uses a variety of optimized sub-tree searching algorithms, including a depth-first search with postorder traversal.
 
-## Acknowledgement and Thanks
+## Acknowledgements and Thanks
 The development of SACAI was extremely dependent on the works of many developers, most notably:
 * **Ceres**, for the advanced MCTS search algorithms and much of the board evaluation theory used in SACAI
 * **LeelaChessZero**, for the openly-available neural networks and initial frameworks for engine development, including the initial executable file
