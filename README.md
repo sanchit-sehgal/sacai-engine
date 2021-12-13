@@ -24,7 +24,9 @@ The development of SACAI was extremely dependent on the works of many developers
 * the variety of other developers who have contributed to the establishment of neural networking in chess research
 
 ## Installation and Configuration
+The source code has not yet been optimized for source-building and the instructions are quite complex and limited. To install SACAI without the source code, visit the [releases](https://github.com/sanchit-sehgal/sacai-engine/releases/tag/latest) page and download the `<version_name>.zip` or `<version_name>.tar.gz` file. Extract the files appropriately and navigate to the directory of extraction. Run the commnad `./sacai --config=sacai.cfg` to ensure that the files have been properly extracted and work as expected.
 
+To build SACAI from its source code, visit the [setup page](setup.md) for detailed instruction.
 
 ## Contributing
 SACAI is proudly open-source and invites developers to further advance its algorithms. The engine uses the Apache License and can be redistributed or modified within the stated terms. See [LICENSE.md](LICENSE.md) for the specific terms and conditions.
