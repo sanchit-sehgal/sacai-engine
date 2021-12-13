@@ -28,7 +28,7 @@ At this time, the source code compilation is quite complicated and installing a 
 
 To build SACAI from its source code, visit the [releases](https://github.com/sanchit-sehgal/sacai-engine/releases/tag/latest) tag and install the file titled `Source Code.zip` or `Source Code.tar.gz`. Unpack the file and navigate to the appropriate directory. Within the unpacked folder, find `/sacai-engine-main /buildtest/sacai/` and execute the build file with the `./build.sh`. Once the file is compiled, copy the contents of the weights folder from the initial unpacked directory into `/buildtest/sacai/build/release`. Additionally, copy `sacai.cfg` from the initial unpacked directory into the `/buildtest/sacai/build/release` as well so that both the weights and config file are located in the `/release` directory. Then, run `./sacai --config=sacai.cfg` and ensure the config file loads appropriately.
 
-For OS-dependent installation instructions, view [setup.md](setup.md).
+For OS-specific installation instructions, view [setup.md](setup.md).
 
 ## Contributing
 SACAI is proudly open-source and invites developers to further advance its algorithms. The engine uses the Apache License and can be redistributed or modified within the stated terms. See [LICENSE.md](LICENSE.md) for the specific terms and conditions.
