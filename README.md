@@ -26,7 +26,7 @@ The development of SACAI was extremely dependent on the works of many developers
 ## Installation and Configuration
 The source code has not yet been optimized for source-building and the instructions are quite complex and limited. To install SACAI without the source code, visit the [releases](https://github.com/sanchit-sehgal/sacai-engine/releases/tag/latest) page and download the `<version_name>.zip` or `<version_name>.tar.gz` file. Extract the files appropriately and navigate to the directory of extraction. Run the command `./sacai --config=sacai.cfg` to ensure that the files have been properly extracted and work as expected.
 
-To build SACAI from its source code, visit the [setup page](setup.md) for detailed instruction.
+To build SACAI from its source code, visit the [releases] (https://github.com/sanchit-sehgal/sacai-engine/releases/tag/latest) tag and install the file titled `Source Code.zip` or `Source Code.tar.gz`. Unpack the file and navigate to the appropriate directory. Within the unpacked folder, find `/sacai-engine-main /buildtest/sacai/` and execute the build file with the `./build.sh`. Once the file is compiled, navigate to `/build/release` and run the engine with `./sacai --config=sacai.cfg`.
 
 ## Contributing
 SACAI is proudly open-source and invites developers to further advance its algorithms. The engine uses the Apache License and can be redistributed or modified within the stated terms. See [LICENSE.md](LICENSE.md) for the specific terms and conditions.
