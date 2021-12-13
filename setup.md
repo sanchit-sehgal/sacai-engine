@@ -1,4 +1,4 @@
-## Installing SACAI
+## Installing Prerequisites
 Currently, SACAI installation process is limited to Linux (due to complications with Windows' Command Prompt). However, the process has been heavily optimized for Linux and is able to even use programs such as **WSL** (Windows Subsystem for Linux) since it doesn't require any /root files. 
 
 ### Ubuntu
@@ -33,3 +33,12 @@ First, you must ensure that your distribution is regularly updated and receives 
     - If you use OpenBLAS, install `libopenblas-dev` (or a similar OpenBLAS backend).
 2. Install the other necessary dependencies: `ninja-build`, `meson`, and `libgtest-dev` (or similar dependencies based on your specific distribution).
 
+### WSL 2.0
+To use SACAI, the latest version of WSL is required. Open the command prompt and install WSL with the simple `wsl --install` command. To choose a specific distribution (most favorably Ubuntu), you can run the following command: `wsl -d <DistributionName>`.
+
+Once WSL has been successfully installed, proceed with compiling the source code.
+
+## Compiling Source
+Once the prerequisites have been successfully installed, the compilation of source code becomes significantly minimized. Simply clone the repository (if you haven't done so already) and navigate to the appropriate base directory. Run the `./build.sh` command to compile the source and build the project. If the shell file emits an error, it is likely that some of the dependencies aren't correctly installed. 
+
+Once the compilation of source is complete, the executable shell file should be located in the `/build/release` directory. To ensure the code has been compiled appropriately, run `./sacai --config=sacai.cfg` to run the program. The appropriate lc0 neural networks should be preinstalled. If the networks are not preinstalled, extract the zip file for this repository and copy the supplied weights from the [weights](weights/) folder to the `/release/` folder.
