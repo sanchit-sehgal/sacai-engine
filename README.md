@@ -23,5 +23,8 @@ The development of SACAI was extremely dependent on the works of many developers
 * **Alex Graves, Santiago Fernández, and Jürgen Schmidhuber**, for their extensive and illuminating research on MDNN implementation (see paper [here](https://people.idsia.ch/~juergen/icann_2007.pdf))
 * the variety of other developers who have contributed to the establishment of neural networking in chess research
 
+## Installation and Configuration
+
+
 ## Contributing
 SACAI is proudly open-source and invites developers to further advance its algorithms. The engine uses the Apache License and can be redistributed or modified within the stated terms. See [LICENSE.md](LICENSE.md) for the specific terms and conditions.
