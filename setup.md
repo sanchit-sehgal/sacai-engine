@@ -38,7 +38,5 @@ To use SACAI, the latest version of WSL is required. Open the command prompt and
 
 Once WSL has been successfully installed, proceed with compiling the source code.
 
-## Compiling Source
-Once the prerequisites have been successfully installed, the compilation of source code becomes significantly minimized. Simply clone the repository (if you haven't done so already) and navigate to the appropriate base directory. Run the `./build.sh` command to compile the source and build the project. If the shell file emits an error, it is likely that some of the dependencies aren't correctly installed. 
-
-Once the compilation of source is complete, the executable shell file should be located in the `/build/release` directory. To ensure the code has been compiled appropriately, run `./sacai --config=sacai.cfg` to run the program. The appropriate lc0 neural networks should be preinstalled. If the networks are not preinstalled, extract the zip file for this repository and copy the supplied weights from the [weights](weights/) folder to the `/release/` folder.
+### MacOS
+This source wasn't initially build for Mac and I'm not able to test the code because of hardware limitations. However, its build-similarities to Linux make it likely that the source will properly execute. To install on Mac, first get the latest `<version_name>.zip` and unpack the downloaded ZIP file. Navigate to the uncompressed file and open a terminal in that directory. In the terminal, type `chmod +x sacai` and `./sacai --config=sacai.cfg` to get the program running in the terminal. For instructions on what to do once the program is running, please reference the [UCI](UCI.md) for supported commands.
