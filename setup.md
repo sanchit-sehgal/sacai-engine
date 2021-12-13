@@ -1,5 +1,5 @@
 ## Installing SACAI
-Currently, SACAI is limited to a Linux installation. However, the process has been heavily optimized for Linux and is able to even use programs such as **WSL** (Windows Subsystem for Linux) since it doesn't require any /root files. 
+Currently, SACAI installation process is limited to Linux (due to complications with Windows' Command Prompt). However, the process has been heavily optimized for Linux and is able to even use programs such as **WSL** (Windows Subsystem for Linux) since it doesn't require any /root files. 
 
 ### Ubuntu 18.04
 Ubuntu is likely the most favorable Linux distribution to install the engine due to its wideband support for backend configurations (such as OpenBSL). To install SACAI on Ubuntu, download the latest release from Github to a directory of your choosing. For Ubuntu 18.04, you will require the latest versions of meson, libstdc++-8-dev, and clang-6.0 before proceeding to the source building:
