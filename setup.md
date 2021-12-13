@@ -30,6 +30,5 @@ First, you must ensure that your distribution is regularly updated and receives 
     - If you use an Nvidia graphics card, install CUDA and cuDNN for your distribution. 
     - If yuou use an AMD graphics card, install OpenCL. 
     - If you use OpenBLAS, install `libopenblas-dev` (or a similar OpenBLAS backend).
-    - 
 2. Install the other necessary dependencies: `ninja-build`, `meson`, and `libgtest-dev` (or similar dependencies based on your specific distribution).
 
