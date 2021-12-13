@@ -1,7 +1,8 @@
 ## Installing SACAI
 Currently, SACAI installation process is limited to Linux (due to complications with Windows' Command Prompt). However, the process has been heavily optimized for Linux and is able to even use programs such as **WSL** (Windows Subsystem for Linux) since it doesn't require any /root files. 
 
-### Ubuntu 18.04
+### Ubuntu
+#### Ubuntu 18.04
 Ubuntu is likely the most favorable Linux distribution to install the engine due to its wideband support for backend configurations (such as OpenBSL). To install SACAI on Ubuntu, download the latest release from Github to a directory of your choosing. For Ubuntu 18.04, you will require the latest versions of meson, libstdc++-8-dev, and clang-6.0 before proceeding to the source building:
 ```
 sudo apt-get install libstdc++-8-dev clang-6.0 ninja-build pkg-config
@@ -10,7 +11,7 @@ CC=clang-6.0 CXX=clang++-6.0 INSTALL_PREFIX=~/.local ./build.sh
 ```
 Ensure that your `~/.local/bin` directory is located in your PATH variables. 
 
-### Ubuntu 16.04
+#### Ubuntu 16.04
 Since older versions of Ubuntu may not be adaptable to install the latest dependencies, you must first install the latest versions of the required dependencies:
 ```
 wget -O - https://apt.llvm.org/llvm-snapshot.gpg.key | sudo apt-key add -
